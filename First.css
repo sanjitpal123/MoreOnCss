@@ -1,0 +1,24 @@
+nav{
+    height: 60px;
+    width: 100%;
+    background-color:rgb(28, 145, 254);
+    display: flex;
+    align-items: center;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+
+    
+}
+ul li{
+    margin-left: 40px;
+    
+}
+ a{
+    color :white;
+}
+a:hover{
+    color: blue;
+}
