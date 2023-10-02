@@ -1,0 +1,39 @@
+nav{
+    height: 60px;
+    width: 100%;
+    background-color:rgb(28, 145, 254);
+    display: flex;
+    align-items: center;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+
+    
+}
+ul li{
+    margin-left: 40px;
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+#one{
+    border-bottom: 2px solid blue;
+    border-style: groove;
+}
+#two{
+
+    border-style:double;
+}
+#three{
+    border-style: dotted;
+}
+#four{
+    border-style: inset;
+}
+#five{
+    border-style: dashed;
+}
