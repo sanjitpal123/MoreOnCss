@@ -1,0 +1,14 @@
+.box{
+    height: 300px;
+    width: 300px;
+    background-color: yellow;
+    border-radius: 15px;
+    margin: auto;
+}
+img{
+    border-radius: 15px;
+    margin: 8px 9px;
+}
+p{
+    text-align: center;
+}
